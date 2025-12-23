@@ -16,7 +16,7 @@
 
   <a href="https://www.producthunt.com/posts/netflix-list-exporter">
     <img alt="vote on product hunt" src="https://img.shields.io/badge/vote%20on-producthunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
-  </a>  
+  </a>
 
   <a href="https://issuehunt.io/r/daltonmenezes/netflix-list-exporter?tab=idle">
     <img alt="fund issues on issuehunt" src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-1C1E26?style=for-the-badge&labelColor=1C1E26&color=c21313" />
@@ -79,9 +79,11 @@
 At [netflix.com/browse/my-list](https://netflix.com/browse/my-list) page, you will see three new buttons to handle the list you want to export from Netflix. Choose one and wait for the message stating that copy to the clipboard is done. Then press **CTRL + V** or **COMMAND + V** to paste the list wherever you want.
 
 # Contributing
+
 Contributions are always welcome.
 
 There's a bunch of ways you can contribute to this project, like by:
+
 - :electric_plug: Working on new features (ask first, please)
 - :wave: Requesting a feature
 - :beetle: Reporting or fixing a bug
@@ -91,6 +93,3 @@ There's a bunch of ways you can contribute to this project, like by:
 - :bug: Funding an issue on IssueHunt
 - :star2: Dropping a star on this repository
 - :thumbsup: Voting on ProductHunt
-
-# License
-[MIT © Dalton Menezes](https://github.com/daltonmenezes/netflix-list-exporter/blob/master/LICENSE)
